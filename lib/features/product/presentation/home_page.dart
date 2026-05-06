@@ -1,3 +1,4 @@
+// UI: Menampilkan daftar produk menggunakan GridView atau ListView
 import 'package:flutter/material.dart';
 import 'package:isar/isar.dart';
 import 'package:go_router/go_router.dart';
