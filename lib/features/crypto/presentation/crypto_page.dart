@@ -1,3 +1,4 @@
+// Real-time: Koneksi WebSocket ke CoinCap untuk harga Bitcoin live
 import 'dart:convert'; // Untuk jsonDecode
 import 'package:flutter/foundation.dart'; // Untuk compute
 import 'package:flutter/material.dart';
