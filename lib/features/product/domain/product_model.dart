@@ -1,3 +1,4 @@
+// Persistensi: Menggunakan Isar Database untuk menyimpan produk favorit
 class Product {
   final String title;
   final double price;
