@@ -1,3 +1,4 @@
+// Reaktivitas: Menggunakan fungsi .watch() dari Isar untuk update UI otomatis
 import 'package:flutter/material.dart';
 import 'package:isar/isar.dart';
 import '../domain/bookmark_model.dart';
