@@ -33,7 +33,7 @@ class _SplashPageState extends State<SplashPage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text("UTD Store Yulianti", style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
+            Text("UTD STORE YULIANTI", style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
             SizedBox(height: 10),
             Text("NIM: 20123059"), // Ganti dengan NIM asli Anda
           ],
