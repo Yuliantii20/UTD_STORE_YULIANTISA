@@ -34,7 +34,7 @@ void main() async {
     );
   }
 }
-
+// Arsitektur: Clean Architecture dengan GoRouter & GetIt
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
